@@ -1,0 +1,17 @@
+name: snowpatrol-demo
+
+channels:
+  - https://repo.anaconda.com/pkgs/snowflake
+  
+dependencies:
+  - cachetools
+  - pandas
+  - python=3.8
+  - snowflake-snowpark-python
+  - ipykernel
+  - scikit-learn
+  - matplotlib
+  - pip
+  - plotly
+  - pip:
+    - -r requirements.txt

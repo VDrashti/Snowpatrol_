@@ -1,0 +1,483 @@
+app_id,session_user,department,division,title,last_day_of_work
+1,harika.pedapudi@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,navya.chalapati@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,amij.patel@anblicks.com,Line Of Business,project,chief operation officer,7/4/2040
+1,aayushi.soni@anblicks.com,Operations,project,manager,7/4/2040
+1,krunal.vyas@anblicks.com,Sales & Marketing,project,sr executive,7/4/2040
+1,dhamodharan.balamani@anblicks.com,Innovations,project,Data engineer architect,7/4/2040
+1,avadh.patel@anblicks.com,Delivery,project,jr devops engineer,7/4/2040
+1,madhu@anblicks.com,Sales & Marketing,project,vice president,7/4/2040
+1,swetha.appisetty@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,abhishek.singh@anblicks.com,Operations,project,vice president,7/4/2040
+1,anand.k@anblicks.com,Operations,project,executive,7/4/2040
+1,saikiran.b@anblicks.com,Sales & Marketing,project,sr executive,7/4/2040
+1,mujtaba@anblicks.com,Operations,project,associate manager,7/4/2040
+1,fayaz@anblicks.com,Operations,project,manager,7/4/2040
+1,devisri.desu@anblicks.com,Delivery,project,jr devops engineer,7/4/2040
+1,saiakhil.gollamudi@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,lalitha.ginjupalli@anblicks.com,Operations,project,associate manager,7/4/2040
+1,komal.saini@anblicks.com,Sales & Marketing,project,manager,7/4/2040
+1,reethika.kolusu@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,kavyasree.kommaraju@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,keerthana.medakayala@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,jyothi.vuyyuru@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,ganeshkasyap.movva@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,rohith.velpula@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,naveen.bandaru@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,divya.gunde@anblicks.com,Delivery,project,jr software engineer,7/4/2040
+1,likhitha.sunkara@anblicks.com,Delivery,project,jr software engineer,7/4/2040
+1,tejaprasad.pampana@anblicks.com,Delivery,project,associate it engineer,7/4/2040
+1,ashish.vanjarapu@anblicks.com,Delivery,project,associate quality analyst,7/4/2040
+1,sana.shaik@anblicks.com,Delivery,project,associate devops engineer,7/4/2040
+1,bhargavi.gogulamudi@anblicks.com,Delivery,project,associate data engineer,7/4/2040
+1,nishilatha.kaile@anblicks.com,Delivery,project,jr software engineer,7/4/2040
+1,ashok.pothureddy@anblicks.com,Delivery,project,sr quality analyst,7/4/2040
+1,nishant.shah@anblicks.com,Delivery,project,lead software engineer,7/4/2040
+1,devang.patel@anblicks.com,Delivery,project,sr data engineer,7/4/2040
+1,manoj.kumar@anblicks.com,Delivery,project,sr data engineer,7/4/2040
+1,gowtham.voruganti@anblicks.com,Delivery,project,managing director,7/4/2040
+1,swetha.s@anblicks.com,Delivery,project,associate manager,7/4/2040
+1,pranshu.joshi@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,harihara.b@anblicks.com,Delivery,project,data scientist,7/4/2040
+1,kotapati.saitha@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,rasi.konatham@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,ganesh.kancharla@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,samir.bhatt@anblicks.com,Innovations,project,Vice president,7/4/2040
+1,jaydeep.panchal@anblicks.com,Delivery,project,software engineer,7/4/2040
+1,pathik.vora@anblicks.com,Delivery,project,sr software engineer,7/4/2040
+1,munwar@anblicks.com,Innovations,project,chief technology officer,7/4/2040
+1,abishek.kunduru@anblicks.com,Delivery,project,managing director Delivery,7/4/2040
+1,lalitha.nasina@anblicks.com,Delivery,project,associate data engineer,7/4/2040
+1,dinesh.radadiya@anblicks.com,Delivery,project,lead software engineer,7/4/2040
+1,sandeep.nidumukkala@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,pavankumar.vemula@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,gaurav.patel@anblicks.com,Delivery,project,lead devops engineer,7/4/2040
+1,geetanjali.dash@anblicks.com,Delivery,project,lead data engineer,7/4/2040
+1,wasimuddin.shaikh@anblicks.com,Delivery,project,lead software engineer,7/4/2040
+1,jhanvi.makwana@anblicks.com,General,project,General,7/4/2040
+1,bayya.vuragayala@anblicks.com,Delivery,project,associate sr quality analyst,7/4/2040
+1,harshad.chhaiya@anblicks.com,Delivery,project,associate sr software engineer,7/4/2040
+1,ronak.parekh@anblicks.com,Delivery,hackathon,jr devops engineer,7/4/2040
+1,sajja.ratnasravya@anblicks.com,Delivery,project,associate data scientist,7/4/2040
+1,praveen@anblicks.com,Delivery,hackathon,Delivery head,7/4/2040
+1,vijay.diwakar@anblicks.com,Delivery,project,lead software engineer,7/4/2040
+1,sukhjeet.singh@anblicks.com,Sales & Marketing,project,head(sales),7/4/2040
+1,naveen.regula@anblicks.com,Delivery,project,lead business analyst,7/4/2040
+1,manish.gupta@anblicks.com,Delivery,hackathon,associate sr software engineer,7/4/2040
+1,anand.maheshwari@anblicks.com,Delivery,hackathon,software engineer,7/4/2040
+1,vinit.prajapati@anblicks.com,Delivery,project,principal software engineer,7/4/2040
+1,ankit.patel@anblicks.com,Delivery,project,lead software engineer,7/4/2040
+1,chitrang.modi@anblicks.com,Delivery,hackathon,sr quality analyst,7/4/2040
+1,siddhi.thakkar@anblicks.com,Delivery,project,associate sr qaulity analyst,7/4/2040
+1,vinay.gundavaram@anblicks.com,Delivery,project,principal software engineer,7/4/2040
+1,parth.ghiya@anblicks.com,Delivery,hackathon,lead software engineer,7/4/2040
+1,dilip.rajpurohit@anblicks.com,Sales & Marketing,project,vice president,7/4/2040
+1,bhavin.bhavsar@anblicks.com,Delivery,project,software engineer,7/4/2040
+1,manish.shrivastav@anblicks.com,Delivery,project,associate quality analyst,7/4/2040
+1,govind.singh@anblicks.com,Delivery,project,sr software engineer,7/4/2040
+1,jatin.patel@anblicks.com,Delivery,hackathon,sr software engineer,7/4/2040
+1,dhruvi.sheladiya@anblicks.com,Delivery,hackathon,software engineer,7/4/2040
+1,sandip.mehta@anblicks.com,Delivery,hackathon,lead quality analyst,7/4/2040
+1,priyank.patel@anblicks.com,Delivery,project,sr quality analyst,7/4/2040
+1,mamta.prajapati@anblicks.com,Delivery,project,associate software engineer,7/4/2040
+1,farooq.md@anblicks.com,Delivery,hackathon,associate sr quality analyst,7/4/2040
+1,purvesh.kachhiya@anblicks.com,Delivery,project,software engineer,7/4/2040
+1,abhilash.p@anblicks.com,Delivery,project,lead data engineer,7/4/2040
+1,jayesh.prajapati@anblicks.com,Delivery,hackathon,director Delivery,7/4/2040
+1,nikunj.kasodariya@anblicks.com,Delivery,project,associate engineer,7/4/2040
+1,tarun.patel@anblicks.com,Delivery,hackathon,jr software engineer,7/4/2040
+1,chamundeswar.b@anblicks.com,Delivery,project,lead quality analyst,7/4/2040
+1,shabbir.challawala@anblicks.com,Delivery,hackathon,lead software engineer,7/4/2040
+1,vishal.sheladiya@anblicks.com,Delivery,project,sr software engineer,7/4/2040
+1,mohammad.dhanpurwala@anblicks.com,Delivery,hackathon,associate software engineer,7/4/2040
+1,albert.manoj@anblicks.com,Delivery,project,associate software engineer,7/4/2040
+1,chintan.gajjar@anblicks.com,Delivery,project,lead software engineer,7/4/2040
+1,sudha.pattigudi@anblicks.com,Delivery,hackathon,sr quality analyst,7/4/2040
+1,esubabu.tibirisetti@anblicks.com,General,project,General,7/4/2040
+1,gnanasirisha.v@anblicks.com,Delivery,project,associate data engineer,7/4/2040
+1,vaibhavi.ghore@anblicks.com,Delivery,project,associate software engineer,7/4/2040
+1,raja.seeni@anblicks.com,Delivery,project,software engineer,7/4/2040
+1,rakesh.gupta@anblicks.com,Delivery,project,Delivery head,7/4/2040
+1,nikhil.khasatiya@anblicks.com,Delivery,project,associate software engineer,7/4/2040
+1,satish.raghuwanshi@anblicks.com,General,project,General,7/4/2040
+1,mitesh.gajjar@anblicks.com,Delivery,hackathon,principal software engineer engineer,7/4/2040
+1,nagakumar.m@anblicks.com,Delivery,project,principal software engineer,7/4/2040
+1,bansilal.keloth@anblicks.com,Delivery,project,sr data engineer,7/4/2040
+1,jaydeep.munjapara@anblicks.com,Delivery,project,sr UX Designer,7/4/2040
+1,nikunj.ranpura@anblicks.com,Delivery,project,lead devops engineer,7/4/2040
+1,vipul.patel@anblicks.com,Delivery,project,sr software engineer,7/4/2040
+1,jaimin.patel@anblicks.com,Delivery,project,sr software engineer,7/4/2040
+1,ronak.padhya@anblicks.com,Delivery,project,lead devops engineer,7/4/2040
+1,nilesh.jain@anblicks.com,Delivery,project,principal UX Designer,7/4/2040
+1,hardik.sanghani@anblicks.com,Delivery,project,associate sr software engineer,7/4/2040
+1,yogesh.kumbhare@anblicks.com,Delivery,project,associate quality analyst,7/4/2040
+1,kalyani.bhumireddy@anblicks.com,Delivery,project,lead data engineer,7/4/2040
+1,dileep.peddineni@anblicks.com,Delivery,project,sr software engineer,7/4/2040
+1,naveed.mf@anblicks.com,Delivery,hackathon,solution architect,7/4/2040
+1,pooja.shah@anblicks.com,Delivery,hackathon,principal business analyst,7/4/2040
+1,krunal.patel@anblicks.com,Delivery,project,principal software engineer,7/4/2040
+1,hemasri.edupuganti@anblicks.com,Delivery,hackathon,data engineer,7/4/2040
+1,deepika.mudiyala@anblicks.com,Delivery,hackathon,data engineer,7/4/2040
+1,jhansi.kandanathi@anblicks.com,Delivery,project,associate data engineer,7/4/2040
+1,pratham.vijayvargiya@anblicks.com,Delivery,project,jr software engineer,7/4/2040
+1,vicky.panwala@anblicks.com,Delivery,project,associate sr software engineer,7/4/2040
+1,chandni.patel@anblicks.com,Delivery,project,associate sr software engineer,7/4/2040
+1,santosh.yadav@anblicks.com,Delivery,project,sr software engineer,7/4/2040
+1,jyostna.jaladi@anblicks.com,Delivery,project,associate software engineer,7/4/2040
+1,maqboolahamed.momin@anblicks.com,Delivery,hackathon,data engineer,7/4/2040
+1,hemant.nag@anblicks.com,Delivery,hackathon,director Delivery,7/4/2040
+1,prashanth.m@anblicks.com,General,project,General,7/4/2040
+1,chandrashekarreddy.genupula@anblicks.com,Delivery,project,sr data engineer,7/4/2040
+1,abhishek.makhija@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,shivam.shah@anblicks.com,Delivery,project,associate software engineer,7/4/2040
+1,durgavikesh.pulapa@anblicks.com,Delivery,project,software engineer,7/4/2040
+1,kumar@anblicks.com,Management,project,chief executive officer,7/4/2040
+1,prasanna.alluri@anblicks.com,Delivery,project,sr software engineer,7/4/2040
+1,shalini.parisi@anblicks.com,Delivery,project,associate data engineer,7/4/2040
+1,vikas.karekannapla@anblicks.com,Delivery,project,lead quality analyst,7/4/2040
+1,bharath.pogula@anblicks.com,Delivery,hackathon,sr data engineer,7/4/2040
+1,kiran.kotha@anblicks.com,Delivery,hackathon,sr software engineer,7/4/2040
+1,vishal.rami@anblicks.com,Delivery,hackathon,software engineer,7/4/2040
+1,jignesh.gajjar@anblicks.com,Delivery,hackathon,sr UX Designer,7/4/2040
+1,satyapriya.mohanty@anblicks.com,Delivery,hackathon,associate sr quality analyst,7/4/2040
+1,uday.muppa@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,ashish.shah@anblicks.com,Delivery,project,chief Delivery officer,7/4/2040
+1,krishnababu.chereddy@anblicks.com,Delivery,project,contractor,7/4/2040
+1,sireesha.alavala@anblicks.com,Delivery,project,associate data engineer,7/4/2040
+1,nimesh.prajapati@anblicks.com,Delivery,hackathon,lead quality analyst,7/4/2040
+1,monal.patel@anblicks.com,Delivery,hackathon,associate sr software engineer,7/4/2040
+1,arjun.g@anblicks.com,Delivery,hackathon,lead data scientist,7/4/2040
+1,praveenkumar.macha@anblicks.com,Delivery,hackathon,associate data engineer,7/4/2040
+1,rinku.gohel@anblicks.com,Delivery,project,software engineer,7/4/2040
+1,deval.kapadia@anblicks.com,Delivery,project,sr UX Designer,7/4/2040
+1,omsai.kandregula@anblicks.com,General,project,General,7/4/2040
+1,fazal.babaria@anblicks.com,Delivery,hackathon,associate software engineer,7/4/2040
+1,rithesh.gummerla@anblicks.com,Delivery,project,software engineer,7/4/2040
+1,shalinee.tawar@anblicks.com,Delivery,project,sr software engineer,7/4/2040
+1,khushbu.patel@anblicks.com,Delivery,project,sr software engineer,7/4/2040
+1,deep.santoki@anblicks.com,Delivery,project,software engineer,7/4/2040
+1,kuldeep.panchal@anblicks.com,Delivery,project,software engineer,7/4/2040
+1,sheetal.chandane@anblicks.com,Delivery,hackathon,sr business analyst,7/4/2040
+1,muddasir.h@anblicks.com,Delivery,hackathon,sr data scientist,7/4/2040
+1,hemal.patel@anblicks.com,Delivery,project,associate sr software engineer,7/4/2040
+1,munindra.ck@anblicks.com,Delivery,project,lead software engineer,7/4/2040
+1,pujitha.katuru@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,janvi.bharadiya@anblicks.com,Delivery,project,associate software engineer,7/4/2040
+1,renu.kumari@anblicks.com,Delivery,project,software engineer,7/4/2040
+1,harsh.soni@anblicks.com,Delivery,project,associate sr software engineer,7/4/2040
+1,karthikeyan.jaganathan@anblicks.com,General,project,General,7/4/2040
+1,francis.mbunya@anblicks.com,General,project,General,7/4/2040
+1,venkatsai.erram@anblicks.com,Delivery,project,quality analyst,7/4/2040
+1,nirva.sangani@anblicks.com,Delivery,project,jr software engineer,7/4/2040
+1,mansi.dobariya@anblicks.com,Delivery,project,jr software engineer,7/4/2040
+1,pinkesh.kothari@anblicks.com,Delivery,project,jr devops engineer engineer,7/4/2040
+1,mounika.mokkapati@anblicks.com,Delivery,project,associate data engineer,7/4/2040
+1,pavan.s@anblicks.com,Delivery,project,director Delivery,7/4/2040
+1,chandrareddy.athmakur@anblicks.com,Delivery,project,software engineer,7/4/2040
+1,ganeshcharan.p@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,manasa.jonnadula@anblicks.com,Delivery,project,associate data scientist,7/4/2040
+1,narayanarao.ponnam@anblicks.com,General,project,General,7/4/2040
+1,sumit.kumar@anblicks.com,Delivery,hackathon,lead software engineer,7/4/2040
+1,anjaneyulu.m@anblicks.com,Delivery,project,sr quality analyst,7/4/2040
+1,ish.lavingia@anblicks.com,Delivery,project,associate software engineer,7/4/2040
+1,swetha.cherukupalli@anblicks.com,Delivery,project,associate sr business analyst,7/4/2040
+1,krupal.khatri@anblicks.com,Delivery,project,sr UX Designer,7/4/2040
+1,riddhi.patel@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,raini.desai@anblicks.com,Delivery,project,quality analyst,7/4/2040
+1,himanshu.rawani@anblicks.com,General,project,General,7/4/2040
+1,g.krishna@anblicks.com,Delivery,project,sr UX Designer,7/4/2040
+1,miti.patel@anblicks.com,Delivery,hackathon,data engineer,7/4/2040
+1,arkan.malek@anblicks.com,Delivery,project,associate software engineer,7/4/2040
+1,hitesh.tank@anblicks.com,Delivery,project,sr software engineer,7/4/2040
+1,saikiran.p@anblicks.com,Delivery,project,lead data engineer,7/4/2040
+1,mounika.koduru@anblicks.com,Delivery,project,associate data engineer,7/4/2040
+1,montej.shah@anblicks.com,Delivery,project,sr software engineer,7/4/2040
+1,arunkumar.k@anblicks.com,General,project,General,7/4/2040
+1,darshan.solanki@anblicks.com,Delivery,project,jr devops engineer,7/4/2040
+1,jaitun.garish@anblicks.com,Delivery,project,jr devops engineer,7/4/2040
+1,surender.thanneeru@anblicks.com,Delivery,project,associate sr devops engineer,7/4/2040
+1,triveni.vemuri@anblicks.com,General,project,General,7/4/2040
+1,kiran.kumar@anblicks.com,Delivery,project,associate sr devops engineer,7/4/2040
+1,tonu.varughese@anblicks.com,Delivery,hackathon,sr devops engineer,7/4/2040
+1,vraj.bhatt@anblicks.com,Delivery,project,devops engineer,7/4/2040
+1,akhila.madduri@anblicks.com,Delivery,project,associate devops engineer,7/4/2040
+1,divya.matsa@anblicks.com,Delivery,project,associate devops engineer,7/4/2040
+1,keyur.ranpura@anblicks.com,Delivery,hackathon,principal software engineer,7/4/2040
+1,jay.shukla@anblicks.com,Delivery,project,devops engineer,7/4/2040
+1,jitendra.prajapat@anblicks.com,Delivery,project,devops engineer,7/4/2040
+1,saeeda.rushnaiwala@anblicks.com,Delivery,project,devops engineer,7/4/2040
+1,bhushan.sambhus@anblicks.com,Delivery,project,sr quality analyst,7/4/2040
+1,nihal.singh@anblicks.com,Delivery,hackathon,devops engineer,7/4/2040
+1,rahul.singh@anblicks.com,Delivery,project,devops engineer,7/4/2040
+1,nandini.thaker@anblicks.com,Delivery,project,UX/UI Designer,7/4/2040
+1,rohit.majithia@anblicks.com,Delivery,project,associate devops engineer,7/4/2040
+1,ummehani@anblicks.com,Sales & Marketing,project,sr executive,7/4/2040
+1,killari.limbachiya@anblicks.com,Delivery,project,associate quality analyst,7/4/2040
+1,shivanagarjuna.busi@anblicks.com,Delivery,hackathon,lead software engineer,7/4/2040
+1,srikanth.yerramsetti@anblicks.com,Delivery,project,lead data engineer,7/4/2040
+1,keval.shah@anblicks.com,Delivery,project,sr quality analyst,7/4/2040
+1,srisai.maddukuri@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,manikumar.modela@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,rehman.shaik@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,utkarsh.dobariya@anblicks.com,Delivery,project,jr IT engineer,7/4/2040
+1,uhapriya.akunuri@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,sandhya.ravalavalasa@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,sajeeda.shaik@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,pavani.pasupulati@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,rajasekharreddy.g@anblicks.com,General,project,General,7/4/2040
+1,hardik.gundigara@anblicks.com,Operations,hackathon,sr manager,7/4/2040
+1,ram.p@anblicks.com,General,project,General,7/4/2040
+1,neelesh.moravaneni@anblicks.com,Delivery,project,associate data engineer,7/4/2040
+1,procurement@anblicks.com,General,project,General,7/4/2040
+1,sravan.m@anblicks.com,Delivery,hackathon,lead data engineer,7/4/2040
+1,sirisha.boppana@anblicks.com,Delivery,project,associate sr quality analyst,7/4/2040
+1,jayapal.reddy@anblicks.com,Delivery,project,sr quality analyst,7/4/2040
+1,rahul.ojha@anblicks.com,Delivery,project,lead quality analyst,7/4/2040
+1,bharath.rudra@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,mohammad.riyaz@anblicks.com,Delivery,hackathon,quality analyst,7/4/2040
+1,guruprasanna.muttu@anblicks.com,Delivery,project,software engineer,7/4/2040
+1,karthiga.pandian@anblicks.com,Delivery,project,sr data engineer,7/4/2040
+1,shruthi.gangam@anblicks.com,Delivery,project,contractor,7/4/2040
+1,nidhi.kumari@anblicks.com,Delivery,project,leaddata engineer,7/4/2040
+1,sapana.shah@anblicks.com,Operations,hackathon,contractor,7/4/2040
+1,hardik.gohel@anblicks.com,General,project,General,7/4/2040
+1,dhaval.raval@anblicks.com,Operations,hackathon,sr IT engineer,7/4/2040
+1,kalpesh.lohar@anblicks.com,Operations,hackathon, sr IT engineer,7/4/2040
+1,pradhan@anblicks.com,Operations,hackathon,sr IT engineer,7/4/2040
+1,satyachandu.pothuri@anblicks.com,Delivery,project,sr IT engineer,7/4/2040
+1,sudharani.b@anblicks.com,Delivery,project,sr data engineer,7/4/2040
+1,aashutosh.makwana@anblicks.com,Delivery,project,associate devops engineer,7/4/2040
+1,maulik.patel@anblicks.com,Delivery,project,devops engineer,7/4/2040
+1,hrcommunique@anblicks.com,General,project,General,7/4/2040
+1,naresh.chillur@anblicks.com,Delivery,project,jr devops engineer,7/4/2040
+1,harsh.patel@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,sagar.katariya@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,premalsinh.vaghela@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,smit.patel@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,drashti.shah@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,rushika.shah@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,narendra.boggavarapu@anblicks.com,Delivery,hackathon,jr devops engineer,7/4/2040
+1,vennela.sandu@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,shravani.bathula@anblicks.com,Delivery,hackathon,jr devops engineer,7/4/2040
+1,manohar.gajengi@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,vinaykumar.jorige@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,saisrinivas.chinta@anblicks.com,Delivery,hackathon,jr devops engineer,7/4/2040
+1,himabindhu.ogirala@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,chandana.kundeti@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,parvathy.chintalapudi@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,raviteja.baswa@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,brahmeswara.donepudi@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,sandhya.rayala@anblicks.com,General,project,General,7/4/2040
+1,manideep.bathini@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,vishwanath.mittapalli@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,deepthi.rayapati@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,prapti.patel@anblicks.com,Delivery,project,jr devops engineer,7/4/2040
+1,viha.dave@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,gopala.kpayyavula@anblicks.com,Delivery,project,lead data engineer,7/4/2040
+1,seshagiri.sattiraju@anblicks.com,Delivery,project,lead software engineer,7/4/2040
+1,srikanth.manduri@anblicks.com,Delivery,project,principal data engineer,7/4/2040
+1,karan.chauhan@anblicks.com,Delivery,hackathon,associate software engineer,7/4/2040
+1,venkateswarareddy.t@anblicks.com,Delivery,hackathon,associate sr data engineer,7/4/2040
+1,vijay.makwana@anblicks.com,Delivery,project,associate devops engineer,7/4/2040
+1,venkatapavan.y@anblicks.com,Delivery,project,sr data engineer,7/4/2040
+1,saiyam.bhupatawat@anblicks.com,Delivery,project,associate sr data engineer,7/4/2040
+1,sarita.rai@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,anand.gangapuram@anblicks.com,Delivery,hackathon,lead data engineer,7/4/2040
+1,krunal.rami@anblicks.com,Delivery,project,sr devops engineer,7/4/2040
+1,naveen.pasupuleti@anblicks.com,Delivery,hackathon,lead data engineer,7/4/2040
+1,lakhan.unadkat@anblicks.com,Delivery,hackathon,sr quality analyst,7/4/2040
+1,tanvir.diwan@anblicks.com,Delivery,project,associate devops engineer,7/4/2040
+1,raj.sindal@anblicks.com,Delivery,project,scrum master,7/4/2040
+1,vijay.maruti@anblicks.com,General,project,General,7/4/2040
+1,kamlesh.bhatt@anblicks.com,Delivery,project,devops engineer,7/4/2040
+1,lakshmi.potharaju@anblicks.com,Delivery,project,sr data engineer,7/4/2040
+1,santhosh.j@anblicks.com,General,project,General,7/4/2040
+1,saibharath.maradani@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,devaraj.lanka@anblicks.com,Delivery,project,associate software engineer,7/4/2040
+1,saikrishna.c@anblicks.com,Delivery,hackathon,data engineer,7/4/2040
+1,nishit.thacker@anblicks.com,Delivery,project,executive,7/4/2040
+1,reshma.banu@anblicks.com,Delivery,project,principal data engineer,7/4/2040
+1,paras.dave@anblicks.com,Delivery,project,associate manager,7/4/2040
+1,shubhangi.solanki@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,swathi.dubbaku@anblicks.com,Delivery,hackathon,associate quality analyst,7/4/2040
+1,pushpendar.marri@anblicks.com,Delivery,hackathon,sr quality analyst,7/4/2040
+1,ronak.savani@anblicks.com,Delivery,hackathon,jr devops engineer,7/4/2040
+1,vrund.patel@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,akshat.patel@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,kricy.gundarania@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,bhagyesh.bhut@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,akshar.bhalodia@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,poojaba.jadeja@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,jay.aghera@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,kishan.chanchad@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,jolin.makwana@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,hemangini.ninama@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,tvng.durgapavan@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,kalyani.dasari@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,harsha.panchagnula@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,pavankumar.sanepalli@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,Srirama.narayana@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,anusha.nandam@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,yasaswipriya.sobila@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,ankitha.chigurupati@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,vasavi.indirala@anblicks.com,Delivery,hackathon,jr software engineer,7/4/2040
+1,anandvardhan.pandi@anblicks.com,Delivery,hackathon,jr software engineer,7/4/2040
+1,nagendra.sureddi@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,yash.shah@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,ketul.sharma@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,gayathri.arepalli@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,jayaram.bande@anblicks.com,Delivery,hackathon,jr software engineer,7/4/2040
+1,vrushang.parikh@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,imran.shaik@anblicks.com,Delivery,hackathon,jr devops engineer,7/4/2040
+1,yashkumar.patel@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,surendra.sanayapalli@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,raghava.kalli@anblicks.com,Delivery,hackathon,jr software engineer,7/4/2040
+1,anil.bitra@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,dharam.rajvadiya@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,vijaybabu.kokku@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,bhagya.talabattula@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,riya.anadani@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,mansuri.avesh@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,kavisha.sutaria@anblicks.com,Delivery,hackathon,associate software engineer,7/4/2040
+1,jagadeeshwar.k@anblicks.com,Delivery,project,associate data engineer,7/4/2040
+1,bhavana.vunyala@anblicks.com,Delivery,project,associate data engineer,7/4/2040
+1,saisyam.dampuri@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,nagaarvind.adari@anblicks.com,Delivery,project,sr data engineer,7/4/2040
+1,raihan.mohammed@anblicks.com,Delivery,hackathon,lead data engineer,7/4/2040
+1,jacqueline.a@anblicks.com,General,project,General,7/4/2040
+1,saikiran.nagarjuna@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,venkatesh.mamidala@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,shivaram.mamidi@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,ganesh.neelakanta@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,yeshmitha.karangula@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,shiv.patel@anblicks.com,Delivery,project,jr software engineer,7/4/2040
+1,sravya.kommula@anblicks.com,General,project,General,7/4/2040
+1,jenis.gohil@anblicks.com,Delivery,project,jr software engineer,7/4/2040
+1,karthik.challagonda@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,srihitha.cherlapally@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,lokeshwar.chankapure@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,nohitha.mongali@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,sowbhagya.vodal@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,sai.devabhakthuni@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,varshitha.eddula@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,giridhar.kompally@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,shiva.nallavelli@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,saicharan.madikonda@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,ankit.amin@anblicks.com,Delivery,hackathon,associate sr quality analyst,7/4/2040
+1,yeshwanth.saikam@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,pranaya.lingallu@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,akshitha.veesam@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,hari.mangali@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,rahul.varakala@anblicks.com,Delivery,hackathon,solution architect,7/4/2040
+1,sravani.sammu@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,tejaswini.kolla@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,ashritha.kanukula@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,ramateja.damireddy@anblicks.com,Delivery,project,associate data engineer,7/4/2040
+1,saisurya.hanumanthu@anblicks.com,Delivery,hackathon,jr data engineer,7/4/2040
+1,krishna.chaurasia@anblicks.com,Delivery,project,associate data engineer,7/4/2040
+1,sainanditha.t@anblicks.com,General,project,General,7/4/2040
+1,srinivas.eraboena@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,debrup.paul@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,saravana.murugesh@anblicks.com,Delivery,project,associate data engineer,7/4/2040
+1,neha.dasari@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,anil.bariki@anblicks.com,General,project,General,7/4/2040
+1,bharati.kandukuri@anblicks.com,Delivery,project,associate sr data engineer,7/4/2040
+1,vasanth.kandagatla@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,nazmanaz.sheik@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,mounika.masuram@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,test.everyone@anblicks.com,General,project,General,7/4/2040
+1,harsha.nadendla@anblicks.com,General,project,General,7/4/2040
+1,haribabu.thamatam@anblicks.com,Delivery,project,associate sr data engineer,7/4/2040
+1,nehith.bandari@anblicks.com,General,project,General,7/4/2040
+1,abhinav.chelluri@anblicks.com,Delivery,hackathon,sr data engineer,7/4/2040
+1,ashok.eeday@anblicks.com,Delivery,project,sr data engineer,7/4/2040
+1,anvesh.karre@anblicks.com,Delivery,project,associate sr data engineer,7/4/2040
+1,raviram.karra@anblicks.com,Delivery,project,scrum master,7/4/2040
+1,avinash.chinta@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,yaswanth.yerasi@anblicks.com,Delivery,hackathon,software engineer,7/4/2040
+1,swapna.boda@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,kranthi.devalapalli@anblicks.com,General,project,General,7/4/2040
+1,ramesh.talamala@anblicks.com,Delivery,project,sr data engineer,7/4/2040
+1,kowsalya.kambala@anblicks.com,Operations,hackathon,associate executive,7/4/2040
+1,sareen.banu@anblicks.com,Operations,project,jr executive,7/4/2040
+1,robert.alvarez@anblicks.com,Sales & Marketing,project,manager,7/4/2040
+1,selina.tanha@anblicks.com,Delivery,hackathon,associate sr data engineer,7/4/2040
+1,mdshahinoor.alam@anblicks.com,Delivery,hackathon,data engineer,7/4/2040
+1,srikanth.chirukonda@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,pradeep.kotamgari@anblicks.com,Delivery,project,lead quality analyst,7/4/2040
+1,utsav.patel@anblicks.com,Delivery,hackathon,associate software engineer,7/4/2040
+1,sobhan.samantaray@anblicks.com,Delivery,project,devops architect,7/4/2040
+1,syamsundar.gudibandi@anblicks.com,Delivery,project,principal data engineer,7/4/2040
+1,faiyaz.maru@anblicks.com,Operations,hackathon,manager,7/4/2040
+1,sreedhar@anblicks.com,Operations,project,sr manager,7/4/2040
+1,pravallika.korrapati@anblicks.com,General,project,General,7/4/2040
+1,pavan.muniganti@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,vijay.janagam@anblicks.com,Delivery,project,contractor,7/4/2040
+1,brahmaiah.vallabhuni@anblicks.com,Delivery,project,associate sr data engineer,7/4/2040
+1,dhaval.mayur@anblicks.com,Operations,hackathon,sr executive,7/4/2040
+1,srilakshmi.gadupudi@anblicks.com,Delivery,project,associate sr data engineer,7/4/2040
+1,venkat.pilli@anblicks.com,Delivery,project,contractor,7/4/2040
+1,nani.bonela@anblicks.com,Operations,hackathon,executive,7/4/2040
+1,vinay.potu@anblicks.com,Delivery,project,contractor,7/4/2040
+1,ramya.anumukonda@anblicks.com,Delivery,project,sr data engineer,7/4/2040
+1,akhila.siripurapu@anblicks.com,General,project,General,7/4/2040
+1,nitya.sripati@anblicks.com,General,project,General,7/4/2040
+1,thikson.tivakar@anblicks.com,General,project,General,7/4/2040
+1,vishvak.tatineni@anblicks.com,Delivery,project,intern,7/4/2040
+1,lance.lugo@datalinksoftware.com,General,project,General,7/4/2040
+1,svinod@asc-es.com,General,project,General,7/4/2040
+1,bharath.sudini@anblicks.com,Delivery,hackathon,contractor,7/4/2040
+1,Kamal.jasuja@anblicks.com,General,project,General,7/4/2040
+1,bharatsinh.parmar@anblicks.com,Operations,project,contractor,7/4/2040
+1,madhumitha.kuna@anblicks.com,General,project,General,7/4/2040
+1,dasaradharamaiah.k@anblicks.com,Delivery,project,contractor,7/4/2040
+1,annual.event@anblicks.com,General,project,General,7/4/2040
+1,pavan.sirasanambedu@anblicks.com,Delivery,project,contractor,7/4/2040
+1,savan.parmar@anblicks.com,General,project,General,7/4/2040
+1,vamshi.tumu@anblicks.com,General,project,General,7/4/2040
+1,sreeni.gandluru@anblicks.com,General,project,General,7/4/2040
+1,satya.brundavanam@anblicks.com,Delivery,hackathon,sr data engineer,7/4/2040
+1,srilatha.kallagunta@anblicks.com,General,project,General,7/4/2040
+1,musalaiah.pemmadi@anblicks.com,Delivery,project,sr data engineer,7/4/2040
+1,vikranth.putta@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,ashok.mallepalle@anblicks.com,General,project,General,7/4/2040
+1,pavan.telanakula@anblicks.com,Delivery,project,jr data engineer,7/4/2040
+1,venkat.gorrepati@anblicks.com,Delivery,project,contractor,7/4/2040
+1,ramesh.dande@anblicks.com,Delivery,project,sr data engineer,7/4/2040
+1,dinesh.chamarthi@anblicks.com,Delivery,project,sr data engineer,7/4/2040
+1,saikiran.samudrala@anblicks.com,Delivery,project,associate data engineer,7/4/2040
+1,twinkal.patel@anblicks.com,General,project,General,7/4/2040
+1,venkataram.thadi@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,senthil.kumar@anblicks.com,Delivery,project,sr data engineer,7/4/2040
+1,bhumika.adhia@anblicks.com,Operations,hackathon,sr executive,7/4/2040
+1,chaitanya@anblicks.com,Operations,hackathon,associate manager,7/4/2040
+1,yaswanth.nimmala@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,veena.kummari@anblicks.com,Delivery,project,contractor,7/4/2040
+1,thilak.jayachandran@anblicks.com,Delivery,project,devops engineer,7/4/2040
+1,praveen.garlapati@anblicks.com,Delivery,hackathon,devops engineer,7/4/2040
+1,staton.deshazo@anblicks.com,Sales & Marketing,project,director,7/4/2040
+1,stuti.adhvaryu@anblicks.com,Delivery,project,associate executive,7/4/2040
+1,ashish.patel@anblicks.com,Delivery,hackathon,software engineer,7/4/2040
+1,megha.sangani@anblicks.com,Operations,hackathon,associate executive,7/4/2040
+1,cheera.kumar@anblicks.com,Operations,hackathon,associate executive,7/4/2040
+1,uday.navadasari@anblicks.com,Operations,project,associate manager,7/4/2040
+1,manohar.madishetty@anblicks.com,Operations,hackathon,associate manager,7/4/2040
+1,lavina.rego@anblicks.com,Operations,hackathon,Operations executive,7/4/2040
+1,senthil.pandurangan@anblicks.com,Delivery,project,sr data engineer,7/4/2040
+1,naresh.mallepalli@anblicks.com,Delivery,project,associate sr data engineer,7/4/2040
+1,suman.ghimire@anblicks.com,Delivery,project,associate sr data engineer,7/4/2040
+1,prasanna.anthati@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,Anil.Makineni@datalinksoftware.com,General,project,General,7/4/2040
+1,krishna.manchikanti@anblicks.com,Delivery,project,sr manager,7/4/2040
+1,bhargava.buchipally@anblicks.com,Delivery,project,associate sr data engineer,7/4/2040
+1,indrakanth.chidara@anblicks.com,Delivery,project,sr data engineer,7/4/2040
+1,sirisha.bobba@anblicks.com,Delivery,hackathon,data engineer,7/4/2040
+1,omprakash.gurram@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,anubhav.rai@anblicks.com,Delivery,project,associate sr data engineer,7/4/2040
+1,brijesh.amrutiya@anblicks.com,Delivery,project,contractor,7/4/2040
+1,sudha.papasani@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,sreedhar.yerragunta@anblicks.com,Delivery,project,data engineer,7/4/2040
+1,smriti.das@anblicks.com,Delivery,project,UI/UX Designer,7/4/2040
+1,anushree.mahajan@anblicks.com,Delivery,project,lead data engineer,7/4/2040
+1,vinay.chitrakathi@anblicks.com,Delivery,hackathon,associate sr data scientist,7/4/2040
+1,dharmik.solanki@anblicks.com,Operations,hackathon,associate executive,7/4/2040
