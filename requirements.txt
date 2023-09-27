@@ -9,4 +9,3 @@ streamlit_option_menu
 datetime
 plotly
 pyarrow==10.0.1
-charset-normalizer==3.2.0
