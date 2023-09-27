@@ -9,4 +9,4 @@ streamlit_option_menu
 datetime
 plotly
 pyarrow==10.0.1
---force-reinstall --no-deps charset-normalizer==2.0.4
+charset-normalizer==3.2.0
