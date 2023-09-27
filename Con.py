@@ -1,5 +1,5 @@
 from datetime import datetime, timedelta
-from snowflake.snowpark import Session
+from snowflake.snowpark.session import Session
 import snowflake.connector
 import plotly.graph_objects as go
 from app_data_model import SnowpatrolDataModel
@@ -16,7 +16,7 @@ from sqlalchemy import create_engine
 #from sqlalchemy import URL
 import pandas as pd
 import json
-from snowflake.snowpark.session import Session
+#from snowflake.snowpark.session import Session
 import snowflake.snowpark.functions as F
 import snowflake.snowpark.types as T
 from dotenv import find_dotenv
